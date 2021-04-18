@@ -1,0 +1,2 @@
+# GiveMeSomeCredit
+Kaggle competition
